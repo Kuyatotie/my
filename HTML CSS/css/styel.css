@@ -1,0 +1,30 @@
+html
+{
+    font-size: 22px;
+}
+body {
+    background-color: #333;
+    color:whitesmoke
+}
+.TOTIE {
+    font-size: 30px;
+    background-color:blue;
+color: white;
+border: none;
+height: 30px;
+width:120px;
+border-radius: 60px
+;
+cursor: pointer;
+margin-right: 7px;
+transition: opacity 1s;
+}
+.TOTIE:hover
+{opacity: 0.5;
+    background-color: lightblue;
+
+}
+h1
+{
+    color: red;
+}
